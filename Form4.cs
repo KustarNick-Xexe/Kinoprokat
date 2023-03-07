@@ -45,7 +45,7 @@ namespace Kinoprokat
             //{
             //    MessageBox.Show("Ошибка! Невозможно выполнить операцию. Формат даты не dd.mm.yyyy",
             //        "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-            //    return;
+            //    return;ЕКЕКОЕООКЕ
             //}
 
             var time = 0;
