@@ -83,7 +83,7 @@ namespace Kinoprokat
 
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
-           //Хуй залупэ
+           //Я на диплом твой мамка нерва шатал
         }
 
         private void SessionsEditor_Load(object sender, EventArgs e)
